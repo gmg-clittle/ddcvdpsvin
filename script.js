@@ -1,4 +1,3 @@
-<script>
  document.addEventListener('DOMContentLoaded', function() {
     setTimeout(function() {
         var vinLabels = Array.prototype.slice.call(document.querySelectorAll('#quick-specs1-app-root dt'));
@@ -22,4 +21,3 @@
         }
     }, 1000); // 1000 ms delay
 });
-</script>
