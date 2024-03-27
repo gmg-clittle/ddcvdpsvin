@@ -1,6 +1,5 @@
-# Script Implementation Tracker
-
-This file keeps track of all the websites where the custom script from the CDN (`https://cdn.jsdelivr.net/gh/gmg-clittle/ddcvdpsvin@main/script.js`) is implemented.
+# JSDelivr URL
+https://cdn.jsdelivr.net/gh/gmg-clittle/ddcvdpsvin@main/script.js
 
 ## Implemented Websites
 
